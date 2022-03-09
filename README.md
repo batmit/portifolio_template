@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="#" >
+  <img src="" >
 </p>
+Background vector created by starline - www.freepik.com
+
 
 # Daniel Matos Falcão
 <sub>An Aspiring *Data Scientist*</sub>
