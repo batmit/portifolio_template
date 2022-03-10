@@ -28,7 +28,6 @@ Other Projects:
 * **Publish Articles - A way to publish an article online freely:** https://publisharticlesff.web.app/
 * **Let Me Ask - Online chat:** https://letmeask-9d468.web.app/
 * **Moto Peças Brasil - A website for my cousin´s store:** https://batmit.github.io/pecas_brasil/
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **Ninth Grade project:** https://batmit.github.io/nono2020/
 * **Spending control:** https://batmit.github.io/
 
