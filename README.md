@@ -30,7 +30,7 @@ Other Projects:
 * **Moto Peças Brasil - A website for my cousin´s store:** https://batmit.github.io/pecas_brasil/
 * **Ninth Grade project:** https://batmit.github.io/nono2020/
 * **Spending control:** https://batmit.github.io/
-
+* **Acta-Gazeta - a way to publish news easly with firebase and REACT:** https://publish-articles-5a753.web.app/
 ---
 
 
