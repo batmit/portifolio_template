@@ -25,6 +25,7 @@ Projects:
 * **Ninth Grade project:** https://batmit.github.io/nono2020/
 * **Spending control:** https://batmit.github.io/
 * **Acta-Gazeta - a way to publish news easly with firebase and REACT:** https://publish-articles-5a753.web.app/
+* **logarithm calculator:** https://batmit.github.io/Logaritmo/  
 ---
 
 
