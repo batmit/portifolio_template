@@ -24,7 +24,7 @@ Projects:
 * **Publish Articles - A way to publish an article online freely:** https://publisharticlesff.web.app/
 * **Acta-Gazeta - a way to publish news easly with firebase and REACT:** https://publish-articles-5a753.web.app/
 * **logarithm calculator:** https://batmit.github.io/Logaritmo/
-* **A website for a TCC in businness: ** https://github.com/batmit/Emp-rio-Doces
+* **A website for a TCC in businness:** https://github.com/batmit/Emp-rio-Doces
 ---
 
 
