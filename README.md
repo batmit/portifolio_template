@@ -7,8 +7,6 @@ Background vector created by starline - www.freepik.com
 # Daniel Matos Falcão
 <sub>An Aspiring *Developer*</sub>
 
-I'm currently in high school, getting ready to be a developer one day.
-
 **My Focus now is:** Python and react.
 
 **Links:**
