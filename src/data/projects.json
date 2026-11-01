@@ -1,0 +1,304 @@
+[
+  {
+    "repo": "Cronometro_Cultos_ICM",
+    "title": "Painel pré-culto",
+    "description": "Contagem para os cultos, versículos e notícias em um painel de apresentação.",
+    "category": "Aplicações",
+    "tech": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
+    "repo": "NewEnglishWords",
+    "title": "Daily Words",
+    "description": "Vocabulário diário em três níveis, com exemplos, tradução e pronúncia no navegador.",
+    "category": "Aplicações",
+    "tech": [
+      "JavaScript",
+      "Web Speech API"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
+    "repo": "Cronometro_Formatura",
+    "title": "Contagem para a formatura",
+    "description": "Contagens regressivas, galeria de memórias e exportação de eventos para a agenda.",
+    "category": "Aplicações",
+    "tech": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
+    "repo": "publish_articles",
+    "title": "Publish Articles",
+    "description": "Aplicação de publicação de artigos com React, TypeScript e integração com Firebase.",
+    "category": "Aplicações",
+    "tech": [
+      "React",
+      "TypeScript",
+      "Firebase"
+    ],
+    "featured": true,
+    "demo": "https://publisharticlesff.web.app/"
+  },
+  {
+    "repo": "pecas_brasil",
+    "title": "Moto Peças Brasil",
+    "description": "Website para uma loja de peças, com apresentação do negócio.",
+    "category": "Sites",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": true,
+    "demo": "https://batmit.github.io/pecas_brasil/"
+  },
+  {
+    "repo": "batmit.github.io",
+    "title": "Controle de gastos",
+    "description": "Interface web para registrar e acompanhar entradas e saídas financeiras.",
+    "category": "Aplicações",
+    "tech": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "featured": true,
+    "demo": "https://batmit.github.io/"
+  },
+  {
+    "repo": "Logaritmo",
+    "title": "Calculadora de logaritmos",
+    "description": "Ferramenta web para explorar cálculos de logaritmos.",
+    "category": "Ferramentas",
+    "tech": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": "https://batmit.github.io/Logaritmo/"
+  },
+  {
+    "repo": "letmeask",
+    "title": "Let Me Ask",
+    "description": "Estudo da NLW 06 da Rocketseat. O repositório atual contém apenas a apresentação.",
+    "category": "Estudos",
+    "tech": [],
+    "featured": false,
+    "demo": "https://letmeask-9d468.web.app/"
+  },
+  {
+    "repo": "Next-Level-Week-End",
+    "title": "Proffy · NLW",
+    "description": "Estudo de desenvolvimento web com páginas de aulas, servidor Node.js e SQLite.",
+    "category": "Estudos",
+    "tech": [
+      "Node.js",
+      "SQLite",
+      "JavaScript"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "moto-pe-as-Brasil",
+    "title": "Moto Peças · estudo inicial",
+    "description": "Versão inicial de uma página de apresentação comercial.",
+    "category": "Estudos",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "nono2020",
+    "title": "Nono 2020",
+    "description": "Website de turma com páginas de alunos e fotografias.",
+    "category": "Sites",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": "https://batmit.github.io/nono2020/"
+  },
+  {
+    "repo": "Blog_do_Batmit",
+    "title": "Blog do Batmit",
+    "description": "Blog com páginas sobre matemática, economia e outros assuntos.",
+    "category": "Sites",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "futurefundation.github.io",
+    "title": "Future Fundation",
+    "description": "Portal de conteúdo com artigos e páginas temáticas.",
+    "category": "Sites",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "FutureFundation.github.io-1",
+    "title": "Future Fundation · expansão",
+    "description": "Portal com páginas de conteúdo e um acervo de jogos web; inclui materiais de terceiros.",
+    "category": "Sites",
+    "tech": [
+      "HTML",
+      "JavaScript"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Emp-rio-Doces",
+    "title": "Empório Doces",
+    "description": "Website desenvolvido para um trabalho de conclusão de curso na área de negócios.",
+    "category": "Sites",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "verdeplant",
+    "title": "Verdeplant",
+    "description": "Página web com acervo de imagens do projeto.",
+    "category": "Sites",
+    "tech": [
+      "HTML"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "first_calc_JS",
+    "title": "Primeira calculadora JS",
+    "description": "Exercício de calculadora em uma página HTML.",
+    "category": "Estudos",
+    "tech": [
+      "HTML",
+      "JavaScript"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "apresentacao_1",
+    "title": "Sociedades humanas",
+    "description": "Apresentação web sobre o desenvolvimento das sociedades humanas.",
+    "category": "Estudos",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Introdu-o_Node",
+    "title": "Introdução ao Node.js",
+    "description": "Estudo de servidor e rotas com armazenamento de dados.",
+    "category": "Ferramentas",
+    "tech": [
+      "Node.js",
+      "JavaScript"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Flask_beggining",
+    "title": "Introdução ao Flask",
+    "description": "Experimento de aplicação Python com páginas HTML.",
+    "category": "Estudos",
+    "tech": [
+      "Python",
+      "Flask",
+      "HTML"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "nlw2-n-o-finalizado-",
+    "title": "NLW 2 · em desenvolvimento",
+    "description": "Exercício de interface da NLW 2, identificado como não finalizado no repositório.",
+    "category": "Estudos",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "My-Love",
+    "title": "My Love",
+    "description": "Página pessoal com fotografias e áudio.",
+    "category": "Pessoais",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "SIUUUUU",
+    "title": "Experimento de interface",
+    "description": "Exercício pessoal de página web e estilos.",
+    "category": "Estudos",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "teste",
+    "title": "Primeiros testes HTML",
+    "description": "Experimento básico de marcação e estilos.",
+    "category": "Estudos",
+    "tech": [
+      "HTML",
+      "CSS"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "test",
+    "title": "Teste de página HTML",
+    "description": "Exercício inicial de página web.",
+    "category": "Estudos",
+    "tech": [
+      "HTML"
+    ],
+    "featured": false,
+    "demo": null
+  }
+]
