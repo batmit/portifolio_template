@@ -114,7 +114,7 @@
       "CSS"
     ],
     "featured": true,
-    "demo": null
+    "demo": "https://batmit.github.io/Cronometro_Cultos_ICM/"
   },
   {
     "repo": "NewEnglishWords",
@@ -126,7 +126,7 @@
       "Web Speech API"
     ],
     "featured": true,
-    "demo": null
+    "demo": "https://batmit.github.io/NewEnglishWords/"
   },
   {
     "repo": "Cronometro_Formatura",
@@ -139,7 +139,7 @@
       "CSS"
     ],
     "featured": true,
-    "demo": null
+    "demo": "https://batmit.github.io/Cronometro_Formatura/"
   },
   {
     "repo": "publish_articles",
@@ -248,7 +248,7 @@
       "CSS"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/Blog_do_Batmit/"
   },
   {
     "repo": "futurefundation.github.io",
@@ -284,7 +284,7 @@
       "CSS"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/Emp-rio-Doces/"
   },
   {
     "repo": "verdeplant",
@@ -295,7 +295,7 @@
       "HTML"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/verdeplant/"
   },
   {
     "repo": "first_calc_JS",
@@ -319,7 +319,7 @@
       "CSS"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/apresentacao_1/"
   },
   {
     "repo": "Introdu-o_Node",
@@ -344,7 +344,7 @@
       "HTML"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/Flask_beggining/site/index.html"
   },
   {
     "repo": "nlw2-n-o-finalizado-",
@@ -368,7 +368,7 @@
       "CSS"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/My-Love/index2.html"
   },
   {
     "repo": "SIUUUUU",
@@ -380,7 +380,7 @@
       "CSS"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/SIUUUUU/indiozinho_maligno.html"
   },
   {
     "repo": "teste",
@@ -392,7 +392,7 @@
       "CSS"
     ],
     "featured": false,
-    "demo": null
+    "demo": "https://batmit.github.io/teste/"
   },
   {
     "repo": "test",
