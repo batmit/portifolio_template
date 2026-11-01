@@ -106,6 +106,4 @@ O catálogo reúne os 47 outros repositórios públicos da conta batmit identifi
 
 Repositórios iniciais e modelos estão identificados como arquivo. Estudos e materiais de terceiros são descritos como tal. Os projetos de terminal, desktop e hardware abrem seu código-fonte; links de demonstração podem depender de serviços externos. As composições visuais dos cartões são ilustrativas.
 
-## Créditos
 
-A imagem histórica `25550.jpg`, preservada no repositório, tem o crédito original: “Background vector created by starline — www.freepik.com”. Ela não é utilizada pela página atual.
