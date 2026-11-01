@@ -19,3 +19,8 @@ Build sem dependências e scripts separados de verificação e servidor. CI vali
 ## Próximas melhorias de conteúdo
 
 Adicionar capturas reais e estudos de caso aos destaques: problema, contribuição pessoal, decisões técnicas e resultados comprovados. Confirmar disponibilidade e propriedade dos links antigos antes de promover demos como ativas. Revisar periodicamente tecnologias e categorias. O catálogo não afirma experiência profissional, métricas, formação ou disponibilidade para contratação sem informação fornecida pelo autor.
+
+
+## Ampliação do catálogo em 01/11/2026
+
+O escopo passou a incluir todos os outros repositórios públicos da conta: 47 entradas, incluindo projetos acadêmicos, pesquisa, algoritmos, desktop, jogos e hardware. Esta ampliação substitui o critério inicial de incluir apenas projetos web. Repositórios de teste e modelos são apresentados como arquivo. A associação explícita à UFOP em Organização de Computadores é confirmada no README de origem. Outros trabalhos são classificados pelas disciplinas documentadas, sem inferir formação ou titulação. Repositórios privados permanecem fora do catálogo público. O README também foi atualizado com os resumos e sem instruções de instalação para visitantes.

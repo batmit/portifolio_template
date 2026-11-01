@@ -1,5 +1,109 @@
 [
   {
+    "repo": "TP-Organiza-o-de-computadores",
+    "title": "Organização de Computadores · UFOP",
+    "description": "Trabalho da disciplina de Organização de Computadores da UFOP, com simulação de CPU, memória e execução de instruções.",
+    "category": "Acadêmicos",
+    "tech": [
+      "C",
+      "Java"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
+    "repo": "TP1_Estrutura_De_Dados_2",
+    "title": "Estruturas de Dados II · Pesquisa em arquivos",
+    "description": "Primeiro trabalho de Estruturas de Dados II: pesquisa indexada e implementações de árvores binárias, B e B*.",
+    "category": "Acadêmicos",
+    "tech": [
+      "C"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "TP2_Estrutura_De_Dados_2",
+    "title": "Estruturas de Dados II · Ordenação externa",
+    "description": "Segundo trabalho de Estruturas de Dados II, com processamento de registros e organização de arquivos em fitas.",
+    "category": "Acadêmicos",
+    "tech": [
+      "C"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
+    "repo": "TP2_ED1",
+    "title": "Estruturas de Dados I · Fila de processos",
+    "description": "Segundo trabalho de Estruturas de Dados I, com implementação de fila de processos e casos de teste.",
+    "category": "Acadêmicos",
+    "tech": [
+      "C",
+      "Python",
+      "Make"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "ED1-Aula-pr-tica-1",
+    "title": "Estruturas de Dados I · Aula prática",
+    "description": "Exercício prático em C, organizado em módulos de programa principal e Pokémon.",
+    "category": "Acadêmicos",
+    "tech": [
+      "C"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Java_Studies",
+    "title": "Programação Orientada a Objetos",
+    "description": "Estudos em Java para a disciplina de POO: herança, interfaces, genéricos, coleções e estruturas de dados.",
+    "category": "Acadêmicos",
+    "tech": [
+      "Java"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "2048",
+    "title": "2048 · Introdução à Programação",
+    "description": "Trabalho final de Introdução à Programação: jogo 2048 em C, com arquivos de partidas e ranking.",
+    "category": "Acadêmicos",
+    "tech": [
+      "C"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Inicia-o-cient-fica",
+    "title": "Iniciação científica · Otimização",
+    "description": "Experimentos em C e C++ com caixeiro viajante e roteamento com drones, incluindo implementações para PDSTSP-C.",
+    "category": "Pesquisa",
+    "tech": [
+      "C",
+      "C++"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
+    "repo": "Metaheuristics-Master-s-degree",
+    "title": "Metaheurísticas · Otimização combinatória",
+    "description": "Repositório da disciplina de metaheurísticas, com busca local e Simulated Annealing aplicados ao caixeiro viajante e roteamento com drones.",
+    "category": "Pesquisa",
+    "tech": [
+      "C",
+      "C++"
+    ],
+    "featured": true,
+    "demo": null
+  },
+  {
     "repo": "Cronometro_Cultos_ICM",
     "title": "Painel pré-culto",
     "description": "Contagem para os cultos, versículos e notícias em um painel de apresentação.",
@@ -298,6 +402,143 @@
     "tech": [
       "HTML"
     ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "-rvore-Bin-ria",
+    "title": "Árvores, hash e heap",
+    "description": "Implementações em C para estudar árvores binárias, tabelas hash e heap.",
+    "category": "Algoritmos",
+    "tech": [
+      "C"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Comprova-o-do-problema-de-Monty-Hall",
+    "title": "Problema de Monty Hall",
+    "description": "Programa em C para explorar o problema probabilístico das três portas e a estratégia de trocar de escolha.",
+    "category": "Algoritmos",
+    "tech": [
+      "C"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Gauss-para-Matriz",
+    "title": "Eliminação de Gauss",
+    "description": "Implementação em C do método de Gauss para trabalhar com matrizes.",
+    "category": "Algoritmos",
+    "tech": [
+      "C"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "bhaskara",
+    "title": "Calculadora de Bhaskara",
+    "description": "Programas em Python para calcular raízes de equações do segundo grau.",
+    "category": "Algoritmos",
+    "tech": [
+      "Python"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Class",
+    "title": "Exercícios de programação em Python",
+    "description": "Coleção de exercícios com Fibonacci, números primos, conversores, cálculos e pequenos jogos.",
+    "category": "Estudos",
+    "tech": [
+      "Python"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Introducao-a-Python",
+    "title": "Introdução à Programação com Python",
+    "description": "Notas e exercícios do livro de Nilo Ney Coutinho Menezes, organizados por capítulos.",
+    "category": "Estudos",
+    "tech": [
+      "Python"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Lua",
+    "title": "Estudos em Lua",
+    "description": "Exercícios e experimentos em Lua, incluindo fatorial e tabuada.",
+    "category": "Estudos",
+    "tech": [
+      "Lua"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "World-war-br-",
+    "title": "World War · RPG de texto",
+    "description": "Jogo de RPG de texto desenvolvido em Python.",
+    "category": "Jogos",
+    "tech": [
+      "Python"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Future_Fundation_System",
+    "title": "Future Fundation System",
+    "description": "Emulador de ambiente de sistema em Python, com aplicativos, calculadora, editor e jogos.",
+    "category": "Desktop",
+    "tech": [
+      "Python"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "Bitmind_Glass",
+    "title": "Bitmind Glass",
+    "description": "Código de um projeto de óculos com firmware para Arduino.",
+    "category": "Hardware",
+    "tech": [
+      "Arduino"
+    ],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "hello-word",
+    "title": "Hello World · Primeiros passos",
+    "description": "Registro inicial de apresentação e aprendizado no GitHub; contém apenas um README.",
+    "category": "Arquivo",
+    "tech": [],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "site-test",
+    "title": "Site Test · Repositório inicial",
+    "description": "Repositório de teste com apenas um README, sem implementação de site publicada no código.",
+    "category": "Arquivo",
+    "tech": [],
+    "featured": false,
+    "demo": null
+  },
+  {
+    "repo": "template_portfolio",
+    "title": "Modelo de portfólio · Referência",
+    "description": "Modelo de portfólio preservado como referência; contém apresentação e links de terceiros.",
+    "category": "Arquivo",
+    "tech": [],
     "featured": false,
     "demo": null
   }
