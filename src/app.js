@@ -22,7 +22,8 @@ function render(){
   const tags=el('div',null,'tags');p.tech.forEach(t=>tags.append(el('span',t)));
   const links=el('div',null,'card-links');const code=link('Código-fonte ↗','https://github.com/batmit/'+p.repo);code.setAttribute('aria-label','Código-fonte de '+p.title);links.append(code);
   if(p.demo){const demo=link('Visitar ↗',p.demo);demo.setAttribute('aria-label','Visitar '+p.title);links.append(demo);}
-  card.append(art,meta,el('h3',p.title),el('p',p.description),tags,links);grid.append(card);
+  const title=el('h3');const primary=link(p.title,p.demo||'https://github.com/batmit/'+p.repo);primary.className='project-primary';primary.setAttribute('aria-label',(p.demo?'Visitar ':'Ver repositório de ')+p.title);title.append(primary);
+  card.append(art,meta,title,el('p',p.description),tags,links);grid.append(card);
  });
  document.querySelector('#count').textContent=shown.length+' de '+projects.length+' projetos';
  document.querySelector('#empty').hidden=shown.length!==0;
