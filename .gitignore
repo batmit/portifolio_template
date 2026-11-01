@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.openai/*.tar*
+.preview-*/
+.DS_Store
+Thumbs.db

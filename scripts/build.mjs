@@ -1,0 +1,10 @@
+import {readFile,writeFile,mkdir,cp} from 'node:fs/promises';
+import path from 'node:path';
+const root=path.resolve(import.meta.dirname,'..');
+const data=JSON.parse(await readFile(path.join(root,'src/data/projects.json'),'utf8'));
+await mkdir(path.join(root,'dist'),{recursive:true});
+await cp(path.join(root,'src'),path.join(root,'dist'),{recursive:true});
+const app=await readFile(path.join(root,'src/app.js'),'utf8');
+await writeFile(path.join(root,'dist/app.js'),app.replace('__PROJECTS__',JSON.stringify(data)));
+await writeFile(path.join(root,'dist/.nojekyll'),'');
+console.log('Built '+data.length+' projects into dist/');
